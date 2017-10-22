@@ -8,8 +8,8 @@ import model.Phone;
 import java.util.Collection;
 
 /**
- * @author Константин Тагинцев
- * @created 09.07.13 17:58
+ * @author Дмитрий Маринич
+ * @created 09.07.17 10:27
  */
 
 public interface PhoneService {
