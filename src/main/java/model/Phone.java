@@ -8,9 +8,9 @@ import java.io.Serializable;
 
 /**
  * Created with IntelliJ IDEA.
- * User: k.tagintsev
- * Date: 05.10.13
- * Time: 12:39
+ * User: d.marynych
+ * Date: 09.10.17
+ * Time: 19:27
  * To change this template use File | Settings | File Templates.
  */
 
